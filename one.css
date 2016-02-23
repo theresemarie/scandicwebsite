@@ -1,0 +1,35 @@
+body {
+  background-color: #000020
+}
+
+header {
+  text-align: center;
+  background-color: #000020;
+  padding: 0;
+  height: 300px;
+  margin: -20px 0 0 0;
+ 
+  
+}
+
+h1 {
+  font-size: 200px;
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: normal;
+  margin: -20px;
+
+  
+}
+
+h6 {
+  font-size: 30px;
+  color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: normal;
+}
+
+#logo {
+  margin-left: 1200px;
+  margin-top: -200px;
+}

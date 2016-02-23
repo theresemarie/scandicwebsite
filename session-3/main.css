@@ -1,0 +1,60 @@
+
+
+.jumbotron {
+  background-color: #000020;
+}
+
+.jumbotron h1 {
+  font-family: 'Open Sans Condensed', sans-serif;
+ font-weight: normal;
+  color: white;
+  font-size: 100px;
+
+}
+
+.jumbotron h3 {
+  font-family: 'Open Sans Condensed', sans-serif;
+ font-weight: normal;
+  color: white;
+  font-size: 40px;
+  text-align: left;
+  margin-right: 100px;
+}
+
+blockquote {
+  border-left: 20px;
+  border-right: 20px;
+}
+
+
+#contact {
+  background-color: #000020;
+  color: #ddd;
+  padding-bottom: 40px;
+}
+
+#comitee {
+  background-color: #000020;
+  color: #ddd;
+  padding-bottom: 40px;
+}
+.jumbotron .form-group {
+  line-height: 1em;
+}
+
+.jumbotron img {
+  margin-top: 70px;
+
+}
+
+h2 {
+  margin-bottom: 1.5em;
+}
+
+.navbar-inverse {
+  background-color: rgba(32, 35, 41,0.8);
+}
+
+
+
+

@@ -1,10 +1,46 @@
 
+body {
+	background-color: #000020;
+	margin: 0 auto;
+  max-width: 600px;
+}
+
 #logo {
 	text-align: center;
+    
 }
-h1 {
-	text-align: center;
-	color: #484848;
-	font-family: 'PT Sans', sans-serif;
 
+.splashpage-header-container {
+ height: 300px;
 }
+.splashpage-header-child-1 {
+  margin-top: 50px;
+  margin-left: 70px;
+}
+.splashpage-header-child-2 {
+  margin-top: 90px;
+  margin-left: 250px;
+}
+
+
+h4 {
+	text-align: center;
+	color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 80px;
+  margin: 80px 0 20px 23px;
+	font-weight: normal;
+	
+}
+
+@media (max-width:500px) {
+ 
+  h4 { 
+    font-size: 50px;
+    margin-top: 20px;
+    line-height: 40px;
+  }
+  
+  #logo {
+    margin: 20px 12px 0 12px;
+  }
